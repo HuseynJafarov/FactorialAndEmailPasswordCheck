@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeC0QpixL3uAULyA9DXAdZTZXGF0IdbJ0ZmsBY+GqDKfRPtwOn16W9kg/7ldPzOaYrwuBBsOo8FieALrkrFzmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CodeHomeWork1\\HomeWork(FactorialAndEmailSingIn)\\HomeWork(FactorialAndEmailSingIn)\\HomeWork(FactorialAndEmailSingIn).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

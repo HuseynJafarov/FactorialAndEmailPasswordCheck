@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).exe
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).deps.json
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).runtimeconfig.json
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).dll
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\bin\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).pdb
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).dll
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).pdb
+C:\Users\HP\Desktop\CodeHomeWork1\HomeWork(FactorialAndEmailSingIn)\HomeWork(FactorialAndEmailSingIn)\obj\Debug\netcoreapp3.1\HomeWork(FactorialAndEmailSingIn).genruntimeconfig.cache
